@@ -1,6 +1,5 @@
-MSSubClassMSSubClass: Identifies the type of dwelling involved in the sale.
-
-1. DWELLING :- The term "dwelling" encompasses a broad range of living arrangements, each with its own features, benefits, and considerations.	
+MSSubClassMSSubClass
+Dwelling
 
         20	1-STORY 1946 & NEWER ALL STYLES
         30	1-STORY 1945 & OLDER
@@ -19,7 +18,7 @@ MSSubClassMSSubClass: Identifies the type of dwelling involved in the sale.
        180	PUD - MULTILEVEL - INCL SPLIT LEV/FOYER
        190	2 FAMILY CONVERSION - ALL STYLES AND AGES
 
-2. MSZoning: Identifies the general zoning classification of the sale.
+2. MSZoning
 
 ZONING:- Zoning regulations dictate what types of activities are allowed in each zone, such as residential, commercial, industrial, agricultural, or mixed-use.
 		
@@ -65,7 +64,7 @@ ALLEY:- GALLI
 		
 6. LotShape: General shape of property
 
-LotShape:- shape property ch
+
 
 
 

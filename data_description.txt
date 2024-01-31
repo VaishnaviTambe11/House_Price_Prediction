@@ -1,3 +1,12 @@
+Training_Set.CSV:- File contains dataset which is used for training the model.
+Testing_Set.CSV:- File used as a unseen data set.
+Price_Prediction.CSV:- Prediction file in .csv format
+
+
+
+
+
+
 MSSubClassMSSubClass
 Dwelling
 
